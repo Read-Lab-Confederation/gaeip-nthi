@@ -1,0 +1,44 @@
+Bactopia Summary Report
+
+Total Samples: 4892
+
+Passed: 4859
+    Gold: 3745
+    Silver: 921
+    Bronze: 193
+
+Excluded: 33
+    Failed Cutoff: 26
+        Too Many Contigs: 26
+    QC Failure: 7
+        Different Read Count Error: 1
+        Low Basepair Proportion Error: 1
+        Paired End Error: 7
+
+Reports:
+    Full Report (txt): .//nthi-report.txt
+    Exclusion: .//nthi-exclude.txt
+
+Rank Cutoffs:
+{
+    "gold": {
+        "coverage": 100.0,
+        "quality": 30,
+        "length": 95,
+        "contigs": 100
+    },
+    "silver": {
+        "coverage": 50.0,
+        "quality": 20,
+        "length": 75,
+        "contigs": 200
+    },
+    "bronze": {
+        "coverage": 20.0,
+        "quality": 12,
+        "length": 49,
+        "contigs": 500
+    },
+    "min-genome-size": null,
+    "max-genome-size": null
+}
