@@ -1,16 +1,10 @@
 sample	status	reason
-SRX6996944	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
-SRX6996947	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
-SRX5735831	qc-fail	Not processed, reason: Paired-end basepair counts are out of accesptable proportions;Paired-end read count mismatch;Paired-end reads were not in acceptable format
-SRX6996943	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
-SRX6996948	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
-SRX6996945	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
-SRX6996946	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3434868	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (714, expect <= 500)
 ERX3434842	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (513, expect <= 500)
 ERX3434997	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (800, expect <= 500)
 SRX7845458	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (863, expect <= 500)
 ERX3434819	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (788, expect <= 500)
+SRX6996944	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3434683	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (758, expect <= 500)
 ERX3434169	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (979, expect <= 500)
 ERX3914421	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (900, expect <= 500)
@@ -20,15 +14,21 @@ ERX3434552	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (879
 ERX3435529	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (844, expect <= 500)
 ERX3434780	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (937, expect <= 500)
 ERX3435711	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (812, expect <= 500)
+SRX6996947	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3433978	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (602, expect <= 500)
 ERX3435076	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (733, expect <= 500)
 ERX2804019	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (1956, expect <= 500)
+SRX5735831	qc-fail	Not processed, reason: Paired-end basepair counts are out of accesptable proportions;Paired-end reads were not in acceptable format
 ERX3462042	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (793, expect <= 500)
+SRX6996943	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3434589	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (883, expect <= 500)
 ERX3449056	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (514, expect <= 500)
 SRX9274430	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (844, expect <= 500)
 ERX3434588	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (517, expect <= 500)
 ERX2803997	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (2208, expect <= 500)
+SRX6996948	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3914463	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (920, expect <= 500)
+SRX6996945	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
 ERX3435103	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (569, expect <= 500)
 ERX3914455	exclude	Failed to pass minimum cutoffs, reason: Too many contigs (840, expect <= 500)
+SRX6996946	qc-fail	Not processed, reason: Paired-end reads were not in acceptable format
