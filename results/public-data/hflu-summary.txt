@@ -1,8 +1,0 @@
-QUERY: tax_name("Haemophilus influenzae")
-LIMIT: 1000000
-RESULTS: 5208 (./hflu-results.txt)
-ILLUMINA ACCESSIONS: 4711 (./hflu-accessions.txt)
-FILTERED ACCESSIONS: 246
-	FAILED MIN READ LENGTH (75 bp): 287
-	FAILED MIN BASE COUNT (74407840 bp): 172
-	MISSING FASTQS: 0
