@@ -1,10 +1,10 @@
 Bactopia Summary Report
 
-Total Samples: 4892
+Total Samples: 4941
 
-Passed: 4859
-    Gold: 3747
-    Silver: 1009
+Passed: 4908
+    Gold: 3788
+    Silver: 1017
     Bronze: 103
 
 Excluded: 33
@@ -13,9 +13,9 @@ Excluded: 33
         Low Basepair Proportion Error: 1
         Paired End Error: 7
 Reports:
-    Full Report (txt): .//nthi-report.txt
-    Exclusion: .//nthi-exclude.txt
-    Summary: .//nthi-summary.txt
+    Full Report (txt): .//nthi-all-report.txt
+    Exclusion: .//nthi-all-exclude.txt
+    Summary: .//nthi-all-summary.txt
 
 Rank Cutoffs:
     Gold:
