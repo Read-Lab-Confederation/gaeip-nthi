@@ -1,0 +1,263 @@
+IQ-TREE 2.0.3 built Dec 20 2020
+
+Input file name: alignment-masked.fa
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 706730
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 26 sequences with 1642530 nucleotide sites
+Number of constant sites: 1.64242e+06 (= 99.9934% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1.64242e+06 (= 99.9934% of all sites)
+Number of parsimony informative sites: 67
+Number of distinct site patterns: 329
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: HKY+F
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+HKY+F           -2233716.985 4467539.970 -  0.00463 4467539.973 -  0.00463 4468192.493 +    0.858
+TPM3+F          -2233712.487 4467532.974 +    0.153 4467532.978 +    0.153 4468197.808 +   0.0602
+TPM3u+F         -2233712.544 4467533.088 +    0.145 4467533.092 +    0.145 4468197.922 +   0.0568
+K3Pu+F          -2233713.475 4467534.950 +    0.057 4467534.954 +    0.057 4468199.784 -   0.0224
+TN+F            -2233716.780 4467541.560 -  0.00209 4467541.564 -  0.00209 4468206.394 - 0.000822
+TPM2u+F         -2233716.835 4467541.670 -  0.00198 4467541.674 -  0.00198 4468206.504 - 0.000778
+TPM2+F          -2233716.835 4467541.670 -  0.00198 4467541.674 -  0.00198 4468206.504 - 0.000778
+TIM3+F          -2233712.777 4467535.554 -   0.0421 4467535.558 -   0.0421 4468212.700 - 3.51e-05
+TIM+F           -2233712.863 4467535.726 -   0.0386 4467535.730 -   0.0386 4468212.872 - 3.22e-05
+TVM+F           -2233709.847 4467531.694 +     0.29 4467531.698 +     0.29 4468221.152 - 5.13e-07
+TIM2+F          -2233717.882 4467545.764 - 0.000255 4467545.768 - 0.000255 4468222.910 - 2.13e-07
+GTR+F           -2233709.679 4467533.358 +    0.126 4467533.362 +    0.126 4468235.128 - 4.74e-10
+GTR+F+G4        -2233709.623 4467535.246 -   0.0491 4467535.250 -   0.0491 4468249.327 - 3.91e-13
+GTR+F+I         -2233709.623 4467535.246 -   0.0491 4467535.250 -   0.0491 4468249.327 - 3.91e-13
+F81+F           -2233758.317 4467620.634 - 1.41e-20 4467620.637 - 1.41e-20 4468260.845 - 1.23e-15
+GTR+F+R2        -2233709.589 4467537.178 -   0.0187 4467537.182 -   0.0187 4468263.571 - 3.16e-16
+GTR+F+I+G4      -2233709.624 4467537.248 -   0.0181 4467537.252 -    0.018 4468263.641 - 3.05e-16
+GTR+F+R3        -2233709.589 4467541.178 -  0.00253 4467541.183 -  0.00253 4468292.195 - 1.92e-22
+K2P             -2277942.047 4555984.094 -        0 4555984.097 -        0 4556599.681 -        0
+K3P             -2277939.171 4555980.342 -        0 4555980.345 -        0 4556608.241 -        0
+TNe             -2277941.311 4555984.622 -        0 4555984.625 -        0 4556612.521 -        0
+TIMe            -2277938.319 4555980.638 -        0 4555980.641 -        0 4556620.849 -        0
+TIM3e           -2277938.563 4555981.126 -        0 4555981.129 -        0 4556621.337 -        0
+TIM2e           -2277940.860 4555985.720 -        0 4555985.723 -        0 4556625.931 -        0
+TVMe            -2277936.226 4555978.452 -        0 4555978.455 -        0 4556630.975 -        0
+SYM             -2277935.721 4555979.442 -        0 4555979.446 -        0 4556644.276 -        0
+JC              -2277981.249 4556060.498 -        0 4556060.501 -        0 4556663.774 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: HKY+F
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 6.2803
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 6.2803
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3146
+  pi(C) = 0.1778
+  pi(G) = 0.2101
+  pi(T) = 0.2974
+
+Rate matrix Q:
+
+  A   -0.9004    0.0892     0.662    0.1492
+  C    0.1578      -1.2    0.1054    0.9371
+  G    0.9911    0.0892    -1.229    0.1492
+  T    0.1578    0.5602    0.1054   -0.8234
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2233716.9207 (s.e. 317.4888)
+Unconstrained log-likelihood (without tree): -3459678.5440
+Number of free parameters (#branches + #model parameters): 53
+Akaike information criterion (AIC) score: 4467539.8414
+Corrected Akaike information criterion (AICc) score: 4467539.8449
+Bayesian information criterion (BIC) score: 4468192.3641
+
+Total tree length (sum of branch lengths): 0.0001
+Sum of internal branch lengths: 0.0001 (75.3277% of tree length)
+
+WARNING: 19 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'GA60748' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++---GA60748
+|
+|                        +**GA81665
+|                     +**| (0/20)
+|                     |  |           +**GA83842A
+|                     |  |        +**| (0/82)
+|                     |  |        |  +**GA83842B
+|                     |  |     +--| (86.1/70)
+|                     |  |     |  +**GA87003
+|                     |  |  +**| (0/32)
+|                     |  |  |  |  +**GA83882
+|                     |  |  |  +**| (0/19)
+|                     |  |  |     |     +**GA87363
+|                     |  |  |     |  +--| (94.2/94)
+|                     |  |  |     |  |  +**GA87620
+|                     |  |  |     +**| (74.7/72)
+|                     |  |  |        |  +**GA91113
+|                     |  |  |        +**| (0/67)
+|                     |  |  |           +--GA91241
+|                     |  +**| (0/11)
+|                     |     +**GA87424
+|                  +**| (0/66)
+|                  |  +**GA83705
+|               +**| (0/36)
+|               |  +**GA87697
+|            +**| (0/80)
+|            |  +**GA83349
+|         +**| (0/61)
+|         |  +**GA81666
+|      +**| (0/67)
+|      |  |                 +**GA83348
+|      |  |              +**| (0/24)
+|      |  |              |  +**GA87176
+|      |  |           +**| (0/41)
+|      |  |           |  +**GA83447
+|      |  |        +**| (0/22)
+|      |  |        |  +**GA83431
+|      |  |     +**| (0/48)
+|      |  |     |  +**GA91506
+|      |  |  +**| (0/51)
+|      |  |  |  +--GA95071
+|      |  +**| (0/80)
+|      |     +**GA87262
+|   +**| (30.1/79)
+|   |  +**GA83571
++---| (97/99)
+|   +**GA87639
+|
+|                                                       +--GA83469
++-------------------------------------------------------| (100/100)
+                                                        +--GA83706
+
+Tree in newick format:
+
+(GA60748:0.0000036890,((((((((GA81665:0.0000006088,((((GA83842A:0.0000000609,GA83842B:0.0000000609)0/82:0.0000000609,GA87003:0.0000000609)86.1/70:0.0000006088,(GA83882:0.0000006088,((GA87363:0.0000000609,GA87620:0.0000000609)94.2/94:0.0000012176,(GA91113:0.0000006088,GA91241:0.0000012176)0/67:0.0000000609)74.7/72:0.0000000609)0/19:0.0000000609)0/32:0.0000001058,GA87424:0.0000006088)0/11:0.0000000609)0/20:0.0000000609,GA83705:0.0000000609)0/66:0.0000000609,GA87697:0.0000000609)0/36:0.0000000609,GA83349:0.0000000609)0/80:0.0000000609,GA81666:0.0000000609)0/61:0.0000000609,((((((GA83348:0.0000002353,GA87176:0.0000000609)0/24:0.0000000609,GA83447:0.0000000609)0/41:0.0000000609,GA83431:0.0000000609)0/22:0.0000000609,GA91506:0.0000006088)0/48:0.0000000609,GA95071:0.0000030441)0/51:0.0000000609,GA87262:0.0000000609)0/80:0.0000000609)0/67:0.0000000609,GA83571:0.0000000609)30.1/79:0.0000000609,GA87639:0.0000000609)97/99:0.0000036438,(GA83469:0.0000026401,GA83706:0.0000006816)100/100:0.0000489353);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -2233719.388002118
+Robinson-Foulds distance between ML tree and consensus tree: 12
+
+Branches with support >0.000000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++---GA60748
+|
+|                           +**GA81665
+|                        +**| (36)
+|                        |  |           +**GA83842A
+|                        |  |        +**| (82)
+|                        |  |        |  +**GA83842B
+|                        |  |     +**| (70)
+|                        |  |     |  +**GA87003
+|                        |  |  +**| (33)
+|                        |  |  |  |     +**GA87363
+|                        |  |  |  |  +**| (94)
+|                        |  |  |  |  |  +**GA87620
+|                        |  |  |  +**| (72)
+|                        |  |  |     |  +**GA91113
+|                        |  |  |     +**| (67)
+|                        |  |  |        +**GA91241
+|                        |  +**| (32)
+|                        |     +**GA83882
+|                     +**| (45)
+|                     |  +**GA83705
+|                  +**| (66)
+|                  |  +**GA87424
+|               +**| (45)
+|               |  +**GA83349
+|            +**| (80)
+|            |  +**GA87697
+|         +**| (61)
+|         |  +**GA81666
+|      +**| (67)
+|      |  |                 +**GA83348
+|      |  |              +**| (37)
+|      |  |              |  +**GA83447
+|      |  |           +**| (41)
+|      |  |           |  +**GA87176
+|      |  |        +**| (31)
+|      |  |        |  +**GA91506
+|      |  |     +**| (48)
+|      |  |     |  +**GA83431
+|      |  |  +**| (51)
+|      |  |  |  +--GA95071
+|      |  +**| (80)
+|      |     +**GA87262
+|   +**| (79)
+|   |  +**GA83571
++---| (99)
+|   +**GA87639
+|
+|                                                       +--GA83469
++-------------------------------------------------------| (100)
+                                                        +**GA83706
+
+
+Consensus tree in newick format: 
+
+(GA60748:0.0000036720,(((((((((GA81665:0.0000006088,((((GA83842A:0.0000001294,GA83842B:0.0000001294)82:0.0000001294,GA87003:0.0000001294)70:0.0000006088,((GA87363:0.0000001294,GA87620:0.0000001294)94:0.0000012176,(GA91113:0.0000006088,GA91241:0.0000012176)67:0.0000001294)72:0.0000001294)33:0.0000001294,GA83882:0.0000006088)32:0.0000001294)36:0.0000001294,GA83705:0.0000001294)45:0.0000001294,GA87424:0.0000006088)66:0.0000001294,GA83349:0.0000001294)45:0.0000001294,GA87697:0.0000001294)80:0.0000001294,GA81666:0.0000001294)61:0.0000001294,((((((GA83348:0.0000001294,GA83447:0.0000001294)37:0.0000001294,GA87176:0.0000001294)41:0.0000001294,GA91506:0.0000006088)31:0.0000001294,GA83431:0.0000001294)48:0.0000001294,GA95071:0.0000030441)51:0.0000001294,GA87262:0.0000001294)80:0.0000001294)67:0.0000001294,GA83571:0.0000001294)79:0.0000001294,GA87639:0.0000001294)99:0.0000036052,(GA83469:0.0000026703,GA83706:0.0000006721)100:0.0000489005);
+
+TIME STAMP
+----------
+
+Date and time: Sun Feb 28 21:17:53 2021
+Total CPU time used: 1025.538231 seconds (0h:17m:5s)
+Total wall-clock time used: 68.68307252 seconds (0h:1m:8s)
+

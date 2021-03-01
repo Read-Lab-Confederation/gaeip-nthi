@@ -1,0 +1,13 @@
+# 1915 gene families in 26 genomes.
+# 72 contain greater than one allele at the thresholds analysed.
+# 8 contain fission/fusion events.
+# 1 contain duplication/loss.
+
+%isolates	#clusters	>1 allele	fission/fusion	multicopy
+0-10%	81	0	1	0
+10-25%	83	0	0	0
+25-50%	0	0	0	0
+50-75%	1	1	0	0
+75-90%	2	0	0	0
+90-95%	1	0	0	0
+95-100%	1747	71	7	1

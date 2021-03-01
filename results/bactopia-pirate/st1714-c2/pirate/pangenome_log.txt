@@ -1,0 +1,52 @@
+
+Options:
+
+ - Creating pangenome on amino acid % identity using BLAST.
+ - Input directory:	/tmp/nxf.BLrAOrqg90/pirate
+ - Output directory:	/tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations
+ - Number of input files: 1
+ - Threshold(s): 50 60 70 80 90 95 98
+ - MCL inflation value: 1.5
+ - Homology test cutoff: 1E-6
+ - Loci file contains 40720 loci from 23 genomes.
+ - Extracting core loci during cdhit clustering
+ - Opening pan_sequences
+ - /tmp/nxf.BLrAOrqg90/pirate/pan_sequences.fasta contains 40467 sequences.
+ - Passing 40468 loci to cd-hit at 100%  
+ - command: "cd-hit -i /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.temp.fasta -o /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.100 -aS 0.9 -c 1 -T 20 -g 1 -n 5 -M 2000 -d 256 >> /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 7325 loci to cd-hit at 99.5%  
+ - command: "cd-hit -i /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.temp.fasta -o /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.99.5 -aS 0.9 -c 0.995 -T 20 -g 1 -n 5 -M 2000 -d 256 >> /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 4703 loci to cd-hit at 99%  
+ - command: "cd-hit -i /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.temp.fasta -o /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.99 -aS 0.9 -c 0.99 -T 20 -g 1 -n 5 -M 2000 -d 256 >> /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 3967 loci to cd-hit at 98.5%  
+ - command: "cd-hit -i /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.temp.fasta -o /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.98.5 -aS 0.9 -c 0.985 -T 20 -g 1 -n 5 -M 2000 -d 256 >> /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 3622 loci to cd-hit at 98%  
+ - command: "cd-hit -i /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.temp.fasta -o /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.98 -aS 0.9 -c 0.98 -T 20 -g 1 -n 5 -M 2000 -d 256 >> /tmp/nxf.BLrAOrqg90/pirate/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - completed in 8 secs
+
+ - 37122 core loci (91.7317386577049%)
+ - 3346 non-core loci (8.26826134229515%)
+
+ - 403 representative loci passed to blast.
+
+ - running all-vs-all BLASTP on pan_sequences
+ - completed in 4 secs
+
+ - running mcl on pan_sequences at 50    
+ - 236 clusters at 50 % - completed in 0 secs
+ - running mcl on pan_sequences at 60    
+ - 247 clusters at 60 % - completed in 1 secs
+ - running mcl on pan_sequences at 70    
+ - 261 clusters at 70 % - completed in 1 secs
+ - running mcl on pan_sequences at 80    
+ - 268 clusters at 80 % - completed in 1 secs
+ - running mcl on pan_sequences at 90    
+ - 291 clusters at 90 % - completed in 1 secs
+ - running mcl on pan_sequences at 95    
+ - 314 clusters at 95 % - completed in 1 secs
+ - running mcl on pan_sequences at 98    
+ - 373 clusters at 98 % - completed in 1 secs
+
+ - reinflating clusters for pan_sequences
+ - Finished
+

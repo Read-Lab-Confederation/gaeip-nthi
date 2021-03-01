@@ -1,0 +1,201 @@
+IQ-TREE 2.0.3 built Dec 20 2020
+
+Input file name: alignment.fa
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 488657
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 23 sequences with 1605117 nucleotide sites
+Number of constant sites: 1.60029e+06 (= 99.6993% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1.60029e+06 (= 99.6993% of all sites)
+Number of parsimony informative sites: 3195
+Number of distinct site patterns: 818
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TVM+F+R10
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TVM+F+R10       -2228217.102 4456570.204 +        1 4456570.210 +        1 4457405.836 +        1
+TPM3u+F+R10     -2228240.446 4456612.892 - 5.38e-10 4456612.898 - 5.38e-10 4457423.947 - 0.000117
+TPM3+F+R10      -2228240.446 4456612.892 - 5.38e-10 4456612.898 - 5.38e-10 4457423.947 - 0.000117
+TIM3+F+R10      -2228240.142 4456614.284 - 2.68e-10 4456614.290 - 2.68e-10 4457437.627 - 1.25e-07
+TPM2+F+R10      -2228264.461 4456660.922 -    2e-20 4456660.928 -    2e-20 4457471.977 - 4.34e-15
+TPM2u+F+R10     -2228264.461 4456660.922 -    2e-20 4456660.928 -    2e-20 4457471.977 - 4.34e-15
+K3Pu+F+R10      -2228266.858 4456665.716 - 1.82e-21 4456665.722 - 1.82e-21 4457476.771 - 3.95e-16
+TIM2+F+R10      -2228264.069 4456662.138 - 1.09e-20 4456662.144 - 1.09e-20 4457485.481 - 5.07e-18
+HKY+F+R10       -2228280.065 4456690.130 - 9.09e-27 4456690.135 - 9.09e-27 4457488.896 -  9.2e-19
+TIM+F+R10       -2228266.519 4456667.038 - 9.39e-22 4456667.044 - 9.39e-22 4457490.381 - 4.38e-19
+TN+F+R10        -2228279.716 4456691.432 - 4.74e-27 4456691.438 - 4.74e-27 4457502.487 - 1.03e-21
+GTR+F+R10       -2228258.872 4456655.744 - 2.66e-19 4456655.750 - 2.66e-19 4457503.665 - 5.71e-22
+GTR+F+R9        -2228296.276 4456726.552 - 1.12e-34 4456726.558 - 1.12e-34 4457549.895 - 5.22e-32
+GTR+F+I         -2228421.030 4456946.060 - 2.42e-82 4456946.063 - 2.42e-82 4457585.073 -  1.2e-39
+GTR+F+R8        -2228386.615 4456903.230 - 4.83e-73 4456903.235 - 4.84e-73 4457701.996 - 4.89e-65
+GTR+F+R7        -2228721.598 4457569.196 - 1.18e-217 4457569.201 - 1.18e-217 4458343.385 - 2.59e-204
+F81+F+R10       -2228820.118 4457768.236 - 7.09e-261 4457768.241 - 7.09e-261 4458554.713 - 3.34e-250
+GTR+F+R6        -2229117.458 4458356.916 -        0 4458356.921 -        0 4459106.527 -        0
+GTR+F+I+G4      -2229229.666 4458565.332 -        0 4458565.336 -        0 4459216.633 -        0
+GTR+F+R5        -2229386.840 4458891.680 -        0 4458891.684 -        0 4459616.714 -        0
+GTR+F+G4        -2229576.010 4459256.020 -        0 4459256.023 -        0 4459895.033 -        0
+GTR+F+R4        -2229596.335 4459306.670 -        0 4459306.674 -        0 4460007.126 -        0
+GTR+F+R3        -2229786.792 4459683.584 -        0 4459683.588 -        0 4460359.463 -        0
+GTR+F+R2        -2230035.342 4460176.684 -        0 4460176.688 -        0 4460827.985 -        0
+GTR+F           -2230263.806 4460629.612 -        0 4460629.615 -        0 4461256.336 -        0
+TIM2e+R10       -2272281.598 4544691.196 -        0 4544691.201 -        0 4545477.673 -        0
+TVMe+R10        -2272276.998 4544683.996 -        0 4544684.001 -        0 4545482.762 -        0
+SYM+R10         -2272274.983 4544681.966 -        0 4544681.972 -        0 4545493.021 -        0
+K2P+R10         -2272342.140 4544808.280 -        0 4544808.285 -        0 4545570.180 -        0
+K3P+R10         -2272338.784 4544803.568 -        0 4544803.573 -        0 4545577.757 -        0
+TNe+R10         -2272339.556 4544805.112 -        0 4544805.117 -        0 4545579.301 -        0
+TIMe+R10        -2272336.116 4544800.232 -        0 4544800.237 -        0 4545586.709 -        0
+TIM3e+R10       -2272337.842 4544803.684 -        0 4544803.689 -        0 4545590.161 -        0
+JC+R10          -2272830.356 4545782.712 -        0 4545782.717 -        0 4546532.323 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TVM+F+R10
+
+Rate parameter R:
+
+  A-C: 1.8351
+  A-G: 3.2361
+  A-T: 1.0887
+  C-G: 1.1622
+  C-T: 3.2361
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3148
+  pi(C) = 0.1772
+  pi(G) = 0.2097
+  pi(T) = 0.2983
+
+Rate matrix Q:
+
+  A   -0.9558     0.234    0.4882    0.2336
+  C    0.4155    -1.285    0.1753    0.6944
+  G    0.7327    0.1482    -1.095    0.2146
+  T    0.2465    0.4126    0.1509     -0.81
+
+Model of rate heterogeneity: FreeRate with 10 categories
+Site proportion and rates:  (0.116,0.4297) (0.1132,0.6203) (0.1099,0.693) (0.1102,0.7056) (0.1102,0.7093) (0.1099,0.7121) (0.1102,0.7153) (0.1101,0.7175) (0.1099,0.7288) (0.0004354,761.8)
+
+ Category  Relative_rate  Proportion
+  1         0.4297         0.116
+  2         0.6203         0.1132
+  3         0.693          0.1099
+  4         0.7056         0.1102
+  5         0.7093         0.1102
+  6         0.7121         0.1099
+  7         0.7153         0.1102
+  8         0.7175         0.1101
+  9         0.7288         0.1099
+  10         761.8          0.0004354
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2228204.9172 (s.e. 736.8875)
+Unconstrained log-likelihood (without tree): -2591823.8214
+Number of free parameters (#branches + #model parameters): 68
+Akaike information criterion (AIC) score: 4456545.8344
+Corrected Akaike information criterion (AICc) score: 4456545.8402
+Bayesian information criterion (BIC) score: 4457381.4665
+
+Total tree length (sum of branch lengths): 0.0040
+Sum of internal branch lengths: 0.0024 (61.5755% of tree length)
+
+WARNING: 8 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'GA54827' is drawn at root
+
++--GA54827
+|
+|  +--GA67073
++--|
+|  |        +--GA71389
+|  |     +**|
+|  |     |  +**GA71663
+|  |  +**|
+|  |  |  +--GA76006
+|  +--|
+|     +**GA74349
+|
+|     +----GA71621
+|  +--|
+|  |  |                                                       +--GA78317
+|  |  |                                                    +--|
+|  |  |                                                    |  |     +**GA81213
+|  |  |                                                    |  |  +--|
+|  |  |                                                    |  |  |  +-------GA83874
+|  |  |                                                    |  +**|
+|  |  |                                                    |     +--GA87536
+|  |  |                                                 +--|
+|  |  |                                                 |  |      +--GA79872
+|  |  |                                                 |  |   +**|
+|  |  |                                                 |  |   |  |        +--GA87640
+|  |  |                                                 |  |   |  |     +--|
+|  |  |                                                 |  |   |  |     |  +--GA91536
+|  |  |                                                 |  |   |  |  +**|
+|  |  |                                                 |  |   |  |  |  +---GA87875
+|  |  |                                                 |  |   |  +--|
+|  |  |                                                 |  |   |     +--GA91534
+|  |  |                                                 |  +---|
+|  |  |                                                 |      |     +--GA81566
+|  |  |                                                 |      |  +--|
+|  |  |                                                 |      |  |  +--GA83357
+|  |  |                                                 |      +**|
+|  |  |                                                 |         +--GA87672
+|  |  |                                              +**|
+|  |  |                                              |  +--GA87801
+|  |  |                                      +-------|
+|  |  |                                      |       +--GA87364
+|  |  +--------------------------------------|
+|  |                                         +-----------GA83841
++**|
+   +--GA78869
+
+Tree in newick format:
+
+(GA54827:0.0000148514,(GA67073:0.0000442140,(((GA71389:0.0000047029,GA71663:0.0000006064):0.0000000621,GA76006:0.0000031931):0.0000000621,GA74349:0.0000006050):0.0000028064):0.0000371207,((GA71621:0.0002304190,(((((GA78317:0.0000032057,((GA81213:0.0000000621,GA83874:0.0003521103):0.0000915231,GA87536:0.0000060676):0.0000003348):0.0000020344,((GA79872:0.0000804045,(((GA87640:0.0000044386,GA91536:0.0000006240):0.0000059050,GA87875:0.0001852979):0.0000000621,GA91534:0.0000018964):0.0000021196):0.0000000621,((GA81566:0.0000124384,GA83357:0.0000023707):0.0000025319,GA87672:0.0000101200):0.0000000621):0.0001827852):0.0000018885,GA87801:0.0000071079):0.0000001730,GA87364:0.0000050231):0.0003800904,GA83841:0.0005380301):0.0016606588):0.0000639284,GA78869:0.0000112512):0.0000000635);
+
+TIME STAMP
+----------
+
+Date and time: Sun Feb 28 21:12:56 2021
+Total CPU time used: 4.911733 seconds (0h:0m:4s)
+Total wall-clock time used: 0.251040962 seconds (0h:0m:0s)
+
