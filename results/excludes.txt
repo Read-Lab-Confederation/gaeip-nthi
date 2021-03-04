@@ -1,0 +1,333 @@
+sample	reason
+ERX101213	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1294
+ERX101236	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1096
+ERX101237	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1467
+ERX101251	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 98.2353
+ERX101258	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1874
+ERX101261	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.4234
+ERX101262	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.6418
+ERX101263	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3369
+ERX101264	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2845
+ERX101265	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.6938
+ERX101269	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 90.2647
+ERX101273	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1802
+ERX101275	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3032
+ERX101276	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.7319
+ERX101277	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.4576
+ERX101278	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3014
+ERX101282	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1754
+ERX101287	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2621
+ERX101289	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.568
+ERX1045225	Too many contigs (576, expect <= 500)
+ERX2260714	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0452
+ERX2260723	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0104
+ERX2260726	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0485
+ERX2260733	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0927
+ERX2260744	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.5662
+ERX2260748	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0083
+ERX2260828	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0814
+ERX2260829	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3076
+ERX2260831	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0759
+ERX2260836	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.997
+ERX2260850	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9919
+ERX2260876	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0256
+ERX2260926	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.4654
+ERX2260947	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0148
+ERX2579048	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3614
+ERX2579051	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2197
+ERX2579054	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0532
+ERX2579056	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2897
+ERX2579059	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3566
+ERX2579118	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.112
+ERX2803937	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0515
+ERX2803945	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9828
+ERX2803949	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0792
+ERX2803990	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.045
+ERX2803997	Too many contigs (2208, expect <= 500)
+ERX2804007	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2819
+ERX2804015	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 84.4901
+ERX2804019	Too many contigs (1956, expect <= 500)
+ERX2804020	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0152
+ERX2804022	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3163
+ERX2804030	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1023
+ERX2804031	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2585
+ERX2804037	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0683
+ERX2804038	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2206
+ERX2804046	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3629
+ERX2804047	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1292
+ERX2804049	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3295
+ERX2804053	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3436
+ERX2804060	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1098
+ERX3291044	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9358
+ERX3291045	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0514
+ERX3291046	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9762
+ERX3291047	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0131
+ERX3291048	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0308
+ERX3291049	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9863
+ERX3291050	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0195
+ERX3291051	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0552
+ERX3291052	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9619
+ERX3291053	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9995
+ERX3291054	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0712
+ERX3291055	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0947
+ERX3291056	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0482
+ERX3291057	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9175
+ERX3291058	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.038
+ERX3291059	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0077
+ERX3291060	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9906
+ERX3291061	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0507
+ERX3291403	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0366
+ERX3331969	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.043
+ERX3331971	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0395
+ERX3331972	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9994
+ERX3331973	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0321
+ERX3331974	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9114
+ERX3331975	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9481
+ERX3331977	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0722
+ERX3331978	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0209
+ERX3332058	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0593
+ERX3332059	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0495
+ERX3332060	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0255
+ERX3332061	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.065
+ERX3332062	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9757
+ERX3332063	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.042
+ERX3332064	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9415
+ERX3332078	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.8952
+ERX3332107	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9648
+ERX3332115	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9999
+ERX3332125	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0329
+ERX3332129	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9371
+ERX3332138	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9909
+ERX3332145	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.043
+ERX3332153	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9379
+ERX3332166	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0116
+ERX3332170	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.957
+ERX3332181	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0216
+ERX3332184	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9396
+ERX3332193	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9926
+ERX3332206	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0329
+ERX3332210	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0786
+ERX3332221	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9882
+ERX3332225	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0219
+ERX3332229	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0765
+ERX3332233	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9891
+ERX3332241	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0317
+ERX3332245	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0144
+ERX3332251	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0621
+ERX3332255	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0084
+ERX3332259	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0025
+ERX3332263	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9539
+ERX3332380	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9686
+ERX3332383	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0403
+ERX3332386	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9497
+ERX3332401	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.994
+ERX3332446	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0211
+ERX3332488	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0303
+ERX3332503	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0383
+ERX3332505	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9554
+ERX3332551	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0827
+ERX3332560	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0077
+ERX3332561	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9252
+ERX3332566	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9577
+ERX3332578	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0649
+ERX3332581	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9986
+ERX3332583	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0065
+ERX3332586	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9695
+ERX3332590	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1113
+ERX3332592	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0886
+ERX3332595	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.8902
+ERX3332607	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0343
+ERX3332619	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0072
+ERX3332623	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.019
+ERX3332625	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9511
+ERX3332626	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0902
+ERX3332648	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0504
+ERX3433947	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9058
+ERX3433978	Too many contigs (602, expect <= 500)
+ERX3434053	sourmash (k31) matches Stenotrophomonas maltophilia;ANI against C1 (GA81666) is 97.3339
+ERX3434100	sourmash (k31) matches Moraxella catarrhalis;ANI against C1 (GA81666) is 94.6375
+ERX3434169	Too many contigs (979, expect <= 500)
+ERX3434291	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4367
+ERX3434429	sourmash (k31) matches Neisseria meningitidis;ANI against C1 (GA81666) is 97.0533
+ERX3434552	Too many contigs (879, expect <= 500)
+ERX3434588	Too many contigs (517, expect <= 500)
+ERX3434589	Too many contigs (883, expect <= 500)
+ERX3434597	sourmash (k31) matches Moraxella catarrhalis;ANI against C1 (GA81666) is 91.7741
+ERX3434683	Too many contigs (758, expect <= 500)
+ERX3434696	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1216
+ERX3434703	Too many contigs (549, expect <= 500)
+ERX3434723	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 91.8621
+ERX3434728	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0573
+ERX3434773	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 92.1693
+ERX3434780	Too many contigs (937, expect <= 500)
+ERX3434804	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0505
+ERX3434819	Too many contigs (788, expect <= 500)
+ERX3434842	Too many contigs (513, expect <= 500)
+ERX3434868	Too many contigs (714, expect <= 500)
+ERX3434875	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0351
+ERX3434879	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.341
+ERX3434883	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0239
+ERX3434944	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0831
+ERX3434957	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.116
+ERX3434986	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0707
+ERX3434997	Too many contigs (800, expect <= 500)
+ERX3435052	sourmash (k31) matches Streptococcus agalactiae;ANI against C1 (GA81666) is 97.2715
+ERX3435076	Too many contigs (733, expect <= 500)
+ERX3435101	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0359
+ERX3435103	Too many contigs (569, expect <= 500)
+ERX3435115	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0509
+ERX3435117	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0537
+ERX3435198	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2129
+ERX3435529	Too many contigs (844, expect <= 500)
+ERX3435706	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0766
+ERX3435711	Too many contigs (812, expect <= 500)
+ERX3448517	sourmash (k31) matches Escherichia coli;ANI against C1 (GA81666) is 94.5076
+ERX3448552	sourmash (k31) matches Escherichia coli;ANI against C1 (GA81666) is 91.6412
+ERX3448554	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.5623
+ERX3448736	sourmash (k31) matches Staphylococcus haemolyticus;ANI against C1 (GA81666) is 97.4538
+ERX3449020	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.9013
+ERX3449032	sourmash (k31) matches Haemophilus sputorum;ANI against C1 (GA81666) is 79.7027
+ERX3449056	Too many contigs (514, expect <= 500)
+ERX3449186	sourmash (k31) matches Staphylococcus aureus;ANI against C1 (GA81666) is 92.0031
+ERX3449314	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.7227
+ERX3462010	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0312
+ERX3462042	Too many contigs (793, expect <= 500)
+ERX3529834	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9876
+ERX3529837	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 96.9961
+ERX3529862	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2459
+ERX3602193	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2323
+ERX3602207	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2895
+ERX3602234	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0166
+ERX3602235	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0299
+ERX3914149	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 92.2026
+ERX3914316	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0898
+ERX3914367	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0915
+ERX3914375	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.6535
+ERX3914421	Too many contigs (900, expect <= 500)
+ERX3914450	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.6273
+ERX3914455	Too many contigs (840, expect <= 500)
+ERX3914463	Too many contigs (920, expect <= 500)
+ERX3970807	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.7576
+ERX3970852	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.7326
+ERX3970862	sourmash (k31) matches Haemophilus sp. C1;ANI against C1 (GA81666) is 92.0581
+ERX3970864	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 92.0006
+ERX3970901	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.6138
+ERX3970921	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.6397
+ERX3970926	sourmash (k31) matches Haemophilus sp. C1;ANI against C1 (GA81666) is 92.0217
+ERX3970938	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.5888
+ERX3970950	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.8951
+ERX4159204	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0334
+GA56646	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0897
+GA58008	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.174
+GA58303	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0217
+GA58329	sourmash (k31) matches Haemophilus haemolyticus;ANI against C1 (GA81666) is 91.4246
+GA60745	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2274
+GA62730	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2072
+GA62917	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 94.8982
+GA67257	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9354
+GA67550	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2835
+GA67703	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0405
+GA78273	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2995
+GA83813	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0334
+GA83939	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0008
+GA87263	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3497
+GA87866	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0643
+GA87896	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9374
+GA91266	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.324
+SRX1081710	Single-end reads;ANI against C1 (GA81666) is 97.16
+SRX1081770	Single-end reads;ANI against C1 (GA81666) is 97.1839
+SRX1081772	Single-end reads;ANI against C1 (GA81666) is 97.0134
+SRX1081775	Single-end reads;ANI against C1 (GA81666) is 97.1434
+SRX1081777	Single-end reads;ANI against C1 (GA81666) is 97.0357
+SRX1081779	Single-end reads;ANI against C1 (GA81666) is 97.1436
+SRX1081781	Single-end reads;ANI against C1 (GA81666) is 97.1176
+SRX1081783	Single-end reads;ANI against C1 (GA81666) is 97.0952
+SRX1081785	Single-end reads;ANI against C1 (GA81666) is 95.5564
+SRX1081787	Single-end reads;ANI against C1 (GA81666) is 95.4495
+SRX1081790	Single-end reads;ANI against C1 (GA81666) is 95.4874
+SRX1081792	Single-end reads;ANI against C1 (GA81666) is 97.1431
+SRX1081794	Single-end reads;ANI against C1 (GA81666) is 97.1312
+SRX1081796	Single-end reads;ANI against C1 (GA81666) is 97.2822
+SRX1081797	Single-end reads;ANI against C1 (GA81666) is 97.1379
+SRX1136411	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2137
+SRX1136412	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2714
+SRX1715122	sourmash (k31) matches Haemophilus sp. C1;ANI against C1 (GA81666) is 92.0786
+SRX1715123	sourmash (k31) matches Haemophilus sp. C1;ANI against C1 (GA81666) is 92.0728
+SRX1715126	sourmash (k31) matches Haemophilus sp. C1;ANI against C1 (GA81666) is 91.9808
+SRX4551897	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0041
+SRX4551898	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0323
+SRX4551899	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0152
+SRX4551920	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1049
+SRX4551928	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0601
+SRX4551959	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1478
+SRX5735831	Not processed, reason: Paired-end basepair counts are out of accesptable proportions;Paired-end reads were not in acceptable format
+SRX6601627	sourmash (k31) matches Neisseria meningitidis;ANI against C1 (GA81666) is 97.4517
+SRX6601637	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3888
+SRX6601642	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9957
+SRX6601662	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4434
+SRX6601664	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4239
+SRX6601673	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3912
+SRX6601684	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0296
+SRX6601685	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4528
+SRX6601713	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4179
+SRX6601715	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4572
+SRX6601721	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4545
+SRX6601751	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1914
+SRX6601776	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4288
+SRX6601784	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4274
+SRX6601820	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3815
+SRX6601825	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4424
+SRX6601831	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4102
+SRX6601838	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1008
+SRX6601849	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3145
+SRX6601876	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4129
+SRX6601915	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0949
+SRX6601922	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4486
+SRX6601932	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0973
+SRX6601962	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.497
+SRX6601974	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.453
+SRX6601985	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3432
+SRX6602012	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1027
+SRX6602024	sourmash (k31) matches Bacillus sp. FJAT-21955;ANI against C1 (GA81666) is 97.3737
+SRX6602041	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4375
+SRX6602079	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4465
+SRX6602082	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.5248
+SRX6602088	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3745
+SRX6602104	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0282
+SRX6602108	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.3488
+SRX6602109	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4818
+SRX6602114	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.1016
+SRX6602115	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4388
+SRX6602120	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0694
+SRX6602130	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4971
+SRX6602144	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9251
+SRX6602146	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.02
+SRX6602147	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0185
+SRX6602161	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0173
+SRX6602189	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.472
+SRX6602192	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4869
+SRX6602205	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0588
+SRX6602221	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4612
+SRX6602230	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 95.4812
+SRX6996943	Not processed, reason: Paired-end reads were not in acceptable format
+SRX6996944	Not processed, reason: Paired-end reads were not in acceptable format
+SRX6996945	Not processed, reason: Paired-end reads were not in acceptable format
+SRX6996946	Not processed, reason: Paired-end reads were not in acceptable format
+SRX6996947	Not processed, reason: Paired-end reads were not in acceptable format
+SRX6996948	Not processed, reason: Paired-end reads were not in acceptable format
+SRX7573931	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2664
+SRX7574180	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0464
+SRX762744	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 90.0843
+SRX7845431	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0278
+SRX7845436	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9497
+SRX7845438	sequence type (ND) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 96.9982
+SRX7845440	sourmash (k31) matches Haemophilus sp. HMSC071C11;ANI against C1 (GA81666) is 97.0884
+SRX7845450	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0381
+SRX7845451	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.0741
+SRX7845452	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.021
+SRX7845458	Too many contigs (863, expect <= 500)
+SRX7845459	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.2902
+SRX9274430	Too many contigs (844, expect <= 500)
+SRX9274433	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.3961
+SRX9513834	sequence type (Novel) was not an integer (e.g. known ST);ANI against C1 (GA81666) is 97.1328
+sample	reason

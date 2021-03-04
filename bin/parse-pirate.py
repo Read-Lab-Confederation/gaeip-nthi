@@ -55,7 +55,6 @@ def read_pirate(pirate):
                             samples[cluster_dict['gene_family']]['cluster'].append(val)
                 samples[cluster_dict['gene_family']]['total'] = len(samples[cluster_dict['gene_family']]['samples'])
                 samples[cluster_dict['gene_family']]['percent'] = samples[cluster_dict['gene_family']]['total'] / total_samples
-
     return(clusters, samples, total_samples)
 
 

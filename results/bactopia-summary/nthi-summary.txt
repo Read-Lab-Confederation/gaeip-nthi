@@ -1,10 +1,10 @@
 Bactopia Summary Report
 
-Total Samples: 4941
+Total Samples: 4849
 
-Passed: 4908
-    Gold: 3788
-    Silver: 1017
+Passed: 4816
+    Gold: 3716
+    Silver: 997
     Bronze: 103
 
 Excluded: 33

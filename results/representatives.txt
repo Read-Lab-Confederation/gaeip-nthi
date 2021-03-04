@@ -1,0 +1,681 @@
+sample	st	is_georgia	is_c1	is_c2	is_ani_cutoffinclusion_reason
+GA52847	422	True	False	False	False	Georgia sample
+GA52964	34	True	False	False	False	Georgia sample
+GA54125	652	True	False	False	False	Georgia sample
+GA54569	819	True	False	False	False	Georgia sample
+GA54617	349	True	False	False	False	Georgia sample
+GA54827	1714	True	False	True	True	Georgia sample
+GA56108	161	True	False	False	False	Georgia sample
+GA56214	349	True	False	False	False	Georgia sample
+GA56273	139	True	False	False	False	Georgia sample
+GA56558	159	True	False	False	False	Georgia sample
+GA56638	155	True	False	False	False	Georgia sample
+GA56663	11	True	False	False	False	Georgia sample
+GA56793	388	True	False	False	False	Georgia sample
+GA56932	134	True	False	False	False	Georgia sample
+GA56981	46	True	False	False	False	Georgia sample
+GA58200	3	True	False	False	False	Georgia sample
+GA58625	425	True	False	False	False	Georgia sample
+GA58694	160	True	False	False	False	Georgia sample
+GA58697	423	True	False	False	False	Georgia sample
+GA58830	149	True	False	False	False	Georgia sample
+GA58945	411	True	False	False	False	Georgia sample
+GA60046	1076	True	False	False	False	Georgia sample
+GA60063	349	True	False	False	False	Georgia sample
+GA60153	143	True	False	False	False	Georgia sample
+GA60320	243	True	False	False	False	Georgia sample
+GA60397	139	True	False	False	False	Georgia sample
+GA60421	105	True	False	False	False	Georgia sample
+GA60512	148	True	False	False	False	Georgia sample
+GA60522	121	True	False	False	False	Georgia sample
+GA60629	143	True	False	False	False	Georgia sample
+GA60746	11	True	False	False	False	Georgia sample
+GA60748	164	True	True	False	True	Georgia sample
+GA60929	143	True	False	False	False	Georgia sample
+GA62012	84	True	False	False	False	Georgia sample
+GA62175	436	True	False	False	False	Georgia sample
+GA62624	836	True	False	False	False	Georgia sample
+GA62635	57	True	False	False	False	Georgia sample
+GA64005	14	True	False	False	False	Georgia sample
+GA64079	436	True	False	False	False	Georgia sample
+GA64371	11	True	False	False	False	Georgia sample
+GA64488	3	True	False	False	False	Georgia sample
+GA64938	807	True	False	False	False	Georgia sample
+GA64949	14	True	False	False	False	Georgia sample
+GA67009	103	True	False	False	False	Georgia sample
+GA67057	245	True	False	False	False	Georgia sample
+GA67073	1714	True	False	True	True	Georgia sample
+GA67098	41	True	False	False	False	Georgia sample
+GA67187	14	True	False	False	False	Georgia sample
+GA67238	388	True	False	False	False	Georgia sample
+GA67324	103	True	False	False	False	Georgia sample
+GA67536	160	True	False	False	False	Georgia sample
+GA67633	146	True	False	False	False	Georgia sample
+GA67735	41	True	False	False	False	Georgia sample
+GA67737	43	True	False	False	False	Georgia sample
+GA67780	147	True	False	False	False	Georgia sample
+GA67852	159	True	False	False	False	Georgia sample
+GA67928	103	True	False	False	False	Georgia sample
+GA71389	1714	True	False	True	True	Georgia sample
+GA71390	159	True	False	False	False	Georgia sample
+GA71438	266	True	False	False	False	Georgia sample
+GA71621	1714	True	False	True	True	Georgia sample
+GA71663	1714	True	False	True	True	Georgia sample
+GA71881	156	True	False	False	False	Georgia sample
+GA71913	107	True	False	False	False	Georgia sample
+GA71938	105	True	False	False	False	Georgia sample
+GA71979	105	True	False	False	False	Georgia sample
+GA71997	103	True	False	False	False	Georgia sample
+GA74067	111	True	False	False	False	Georgia sample
+GA74349	1714	True	False	True	True	Georgia sample
+GA74406	368	True	False	False	False	Georgia sample
+GA74961	145	True	False	False	False	Georgia sample
+GA76006	1714	True	False	True	True	Georgia sample
+GA76501	388	True	False	False	False	Georgia sample
+GA76567	388	True	False	False	False	Georgia sample
+GA76605	136	True	False	False	False	Georgia sample
+GA78037	245	True	False	False	False	Georgia sample
+GA78215	103	True	False	False	False	Georgia sample
+GA78317	1714	True	False	True	True	Georgia sample
+GA78345	836	True	False	False	False	Georgia sample
+GA78442	1449	True	False	False	False	Georgia sample
+GA78640	602	True	False	False	False	Georgia sample
+GA78793	594	True	False	False	False	Georgia sample
+GA78869	1714	True	False	True	True	Georgia sample
+GA78928	388	True	False	False	False	Georgia sample
+GA78941	1034	True	False	False	False	Georgia sample
+GA79016	160	True	False	False	False	Georgia sample
+GA79189	156	True	False	False	False	Georgia sample
+GA79244	84	True	False	False	False	Georgia sample
+GA79308	176	True	False	False	False	Georgia sample
+GA79465	155	True	False	False	False	Georgia sample
+GA79495	155	True	False	False	False	Georgia sample
+GA79549	14	True	False	False	False	Georgia sample
+GA79872	1714	True	False	True	True	Georgia sample
+GA81034	105	True	False	False	False	Georgia sample
+GA81061	697	True	False	False	False	Georgia sample
+GA81213	1714	True	False	True	True	Georgia sample
+GA81493	145	True	False	False	False	Georgia sample
+GA81494	105	True	False	False	False	Georgia sample
+GA81563	139	True	False	False	False	Georgia sample
+GA81566	1714	True	False	True	True	Georgia sample
+GA81602	124	True	False	False	False	Georgia sample
+GA81665	164	True	True	False	True	Georgia sample
+GA81666	164	True	True	False	True	Georgia sample
+GA81686	124	True	False	False	False	Georgia sample
+GA81798	14	True	False	False	False	Georgia sample
+GA81799	18	True	False	False	False	Georgia sample
+GA83052	1773	True	False	False	False	Georgia sample
+GA83310	183	True	False	False	False	Georgia sample
+GA83348	164	True	True	False	True	Georgia sample
+GA83349	164	True	True	False	True	Georgia sample
+GA83357	1714	True	False	True	True	Georgia sample
+GA83431	164	True	True	False	True	Georgia sample
+GA83447	164	True	True	False	True	Georgia sample
+GA83469	164	True	True	False	True	Georgia sample
+GA83571	164	True	True	False	True	Georgia sample
+GA83679	105	True	False	False	False	Georgia sample
+GA83705	164	True	True	False	True	Georgia sample
+GA83706	164	True	True	False	True	Georgia sample
+GA83841	1714	True	False	True	True	Georgia sample
+GA83842A	164	True	True	False	True	Georgia sample
+GA83842B	164	True	True	False	True	Georgia sample
+GA83849	472	True	False	False	False	Georgia sample
+GA83874	1714	True	False	True	True	Georgia sample
+GA83882	164	True	True	False	True	Georgia sample
+GA83906	943	True	False	False	False	Georgia sample
+GA83957	139	True	False	False	False	Georgia sample
+GA83972	107	True	False	False	False	Georgia sample
+GA83973	139	True	False	False	False	Georgia sample
+GA87003	164	True	True	False	True	Georgia sample
+GA87077	34	True	False	False	False	Georgia sample
+GA87107	425	True	False	False	False	Georgia sample
+GA87176	164	True	True	False	True	Georgia sample
+GA87217	183	True	False	False	False	Georgia sample
+GA87262	164	True	True	False	True	Georgia sample
+GA87289	201	True	False	False	False	Georgia sample
+GA87363	164	True	True	False	True	Georgia sample
+GA87364	1714	True	False	True	True	Georgia sample
+GA87424	164	True	True	False	True	Georgia sample
+GA87439	143	True	False	False	False	Georgia sample
+GA87475	630	True	False	False	False	Georgia sample
+GA87536	1714	True	False	True	True	Georgia sample
+GA87607	147	True	False	False	False	Georgia sample
+GA87620	164	True	True	False	True	Georgia sample
+GA87639	164	True	True	False	True	Georgia sample
+GA87640	1714	True	False	True	True	Georgia sample
+GA87655	1047	True	False	False	False	Georgia sample
+GA87672	1714	True	False	True	True	Georgia sample
+GA87697	164	True	True	False	True	Georgia sample
+GA87757	149	True	False	False	False	Georgia sample
+GA87801	1714	True	False	True	True	Georgia sample
+GA87837	107	True	False	False	False	Georgia sample
+GA87875	1714	True	False	True	True	Georgia sample
+GA87916	165	True	False	False	False	Georgia sample
+GA87991	142	True	False	False	False	Georgia sample
+GA91113	164	True	True	False	True	Georgia sample
+GA91241	164	True	True	False	True	Georgia sample
+GA91328	1047	True	False	False	False	Georgia sample
+GA91339	1047	True	False	False	False	Georgia sample
+GA91364	145	True	False	False	False	Georgia sample
+GA91506	164	True	True	False	True	Georgia sample
+GA91534	1714	True	False	True	True	Georgia sample
+GA91536	1714	True	False	True	True	Georgia sample
+GA91594	134	True	False	False	False	Georgia sample
+GA95071	164	True	True	False	True	Georgia sample
+ERX2579069	164	False	False	False	True	ANI (99.789)to ERX2579069 greater than cutoff (98)
+ERX3434760	164	False	False	False	True	ANI (99.7137)to ERX3434760 greater than cutoff (98)
+ERX3435712	164	False	False	False	True	ANI (99.7081)to ERX3435712 greater than cutoff (98)
+ERX3448842	164	False	False	False	True	ANI (99.6881)to ERX3448842 greater than cutoff (98)
+ERX3970908	164	False	False	False	True	ANI (99.6845)to ERX3970908 greater than cutoff (98)
+ERX3435790	164	False	False	False	True	ANI (99.6839)to ERX3435790 greater than cutoff (98)
+ERX3970853	164	False	False	False	True	ANI (99.6823)to ERX3970853 greater than cutoff (98)
+ERX3448733	164	False	False	False	True	ANI (99.6819)to ERX3448733 greater than cutoff (98)
+ERX2804027	2083	False	False	False	True	ANI (99.4794)to ERX2804027 greater than cutoff (98)
+ERX3434263	1960	False	False	False	True	ANI (99.043)to ERX3434263 greater than cutoff (98)
+ERX3435048	1960	False	False	False	True	ANI (99.033)to ERX3435048 greater than cutoff (98)
+ERX3914175	1960	False	False	False	True	ANI (99.0002)to ERX3914175 greater than cutoff (98)
+ERX3435156	1960	False	False	False	True	ANI (98.9917)to ERX3435156 greater than cutoff (98)
+ERX3435157	1960	False	False	False	True	ANI (98.9881)to ERX3435157 greater than cutoff (98)
+ERX3435158	1960	False	False	False	True	ANI (98.9844)to ERX3435158 greater than cutoff (98)
+ERX3462226	1960	False	False	False	True	ANI (98.9829)to ERX3462226 greater than cutoff (98)
+ERX3434767	1960	False	False	False	True	ANI (98.9668)to ERX3434767 greater than cutoff (98)
+ERX3434191	1925	False	False	False	True	ANI (98.961)to ERX3434191 greater than cutoff (98)
+ERX3435081	1925	False	False	False	True	ANI (98.9529)to ERX3435081 greater than cutoff (98)
+ERX3435811	1925	False	False	False	True	ANI (98.9493)to ERX3435811 greater than cutoff (98)
+ERX3462333	1925	False	False	False	True	ANI (98.9463)to ERX3462333 greater than cutoff (98)
+ERX3435201	1925	False	False	False	True	ANI (98.9461)to ERX3435201 greater than cutoff (98)
+ERX3435063	1925	False	False	False	True	ANI (98.9455)to ERX3435063 greater than cutoff (98)
+ERX3434250	1960	False	False	False	True	ANI (98.945)to ERX3434250 greater than cutoff (98)
+ERX3434929	1925	False	False	False	True	ANI (98.9446)to ERX3434929 greater than cutoff (98)
+ERX3434863	1925	False	False	False	True	ANI (98.941)to ERX3434863 greater than cutoff (98)
+ERX3435724	1925	False	False	False	True	ANI (98.9395)to ERX3435724 greater than cutoff (98)
+ERX3435572	1925	False	False	False	True	ANI (98.9342)to ERX3435572 greater than cutoff (98)
+ERX3434991	1925	False	False	False	True	ANI (98.9234)to ERX3434991 greater than cutoff (98)
+ERX3434948	1925	False	False	False	True	ANI (98.9186)to ERX3434948 greater than cutoff (98)
+ERX3434836	1925	False	False	False	True	ANI (98.9024)to ERX3434836 greater than cutoff (98)
+ERX3448912	1925	False	False	False	True	ANI (98.8895)to ERX3448912 greater than cutoff (98)
+ERX3435808	1925	False	False	False	True	ANI (98.8813)to ERX3435808 greater than cutoff (98)
+ERX3434759	1925	False	False	False	True	ANI (98.8803)to ERX3434759 greater than cutoff (98)
+ERX3434834	1925	False	False	False	True	ANI (98.8774)to ERX3434834 greater than cutoff (98)
+ERX3448798	1925	False	False	False	True	ANI (98.8639)to ERX3448798 greater than cutoff (98)
+ERX3462141	1925	False	False	False	True	ANI (98.8574)to ERX3462141 greater than cutoff (98)
+ERX3434891	1925	False	False	False	True	ANI (98.8074)to ERX3434891 greater than cutoff (98)
+ERX3434838	2001	False	False	False	True	ANI (98.576)to ERX3434838 greater than cutoff (98)
+ERX3434303	2001	False	False	False	True	ANI (98.5284)to ERX3434303 greater than cutoff (98)
+ERX3435785	2001	False	False	False	True	ANI (98.528)to ERX3435785 greater than cutoff (98)
+ERX3435631	1916	False	False	False	True	ANI (98.3403)to ERX3435631 greater than cutoff (98)
+ERX3448737	1916	False	False	False	True	ANI (98.3336)to ERX3448737 greater than cutoff (98)
+ERX3434160	1916	False	False	False	True	ANI (98.3307)to ERX3434160 greater than cutoff (98)
+ERX3462028	1916	False	False	False	True	ANI (98.3244)to ERX3462028 greater than cutoff (98)
+ERX3434223	1916	False	False	False	True	ANI (98.321)to ERX3434223 greater than cutoff (98)
+ERX3434684	1916	False	False	False	True	ANI (98.3196)to ERX3434684 greater than cutoff (98)
+ERX3434768	1916	False	False	False	True	ANI (98.3186)to ERX3434768 greater than cutoff (98)
+ERX3434096	1916	False	False	False	True	ANI (98.3175)to ERX3434096 greater than cutoff (98)
+ERX3434548	1916	False	False	False	True	ANI (98.3164)to ERX3434548 greater than cutoff (98)
+ERX3449027	1916	False	False	False	True	ANI (98.3163)to ERX3449027 greater than cutoff (98)
+ERX3434401	1916	False	False	False	True	ANI (98.3142)to ERX3434401 greater than cutoff (98)
+ERX3434121	1916	False	False	False	True	ANI (98.3131)to ERX3434121 greater than cutoff (98)
+ERX3434657	1916	False	False	False	True	ANI (98.3104)to ERX3434657 greater than cutoff (98)
+ERX3434304	1916	False	False	False	True	ANI (98.3088)to ERX3434304 greater than cutoff (98)
+ERX3448906	1916	False	False	False	True	ANI (98.3088)to ERX3448906 greater than cutoff (98)
+ERX3433998	1916	False	False	False	True	ANI (98.3077)to ERX3433998 greater than cutoff (98)
+SRX6601991	1714	False	False	False	True	ANI (98.3048)to SRX6601991 greater than cutoff (98)
+ERX3434239	1916	False	False	False	True	ANI (98.3038)to ERX3434239 greater than cutoff (98)
+ERX3462212	1916	False	False	False	True	ANI (98.3021)to ERX3462212 greater than cutoff (98)
+ERX3435796	1916	False	False	False	True	ANI (98.2982)to ERX3435796 greater than cutoff (98)
+ERX3448846	1916	False	False	False	True	ANI (98.2954)to ERX3448846 greater than cutoff (98)
+ERX3434110	1916	False	False	False	True	ANI (98.2939)to ERX3434110 greater than cutoff (98)
+ERX3434687	1916	False	False	False	True	ANI (98.2803)to ERX3434687 greater than cutoff (98)
+SRX4551927	519	False	False	False	True	ANI (98.2612)to SRX4551927 greater than cutoff (98)
+ERX3434855	1916	False	False	False	True	ANI (98.2569)to ERX3434855 greater than cutoff (98)
+SRX4551923	519	False	False	False	True	ANI (98.2454)to SRX4551923 greater than cutoff (98)
+SRX4551922	519	False	False	False	True	ANI (98.2309)to SRX4551922 greater than cutoff (98)
+SRX4551926	519	False	False	False	True	ANI (98.206)to SRX4551926 greater than cutoff (98)
+ERX3602226	1296	False	False	False	True	ANI (98.1689)to ERX3602226 greater than cutoff (98)
+ERX2803956	1	False	False	False	False	Representative for ST 1
+ERX2260785	2	False	False	False	False	Representative for ST 2
+SRX6098047	4	False	False	False	False	Representative for ST 4
+ERX2579064	6	False	False	False	False	Representative for ST 6
+ERX3435062	7	False	False	False	False	Representative for ST 7
+SRX6602140	9	False	False	False	False	Representative for ST 9
+SRX6602113	10	False	False	False	False	Representative for ST 10
+ERX2260722	13	False	False	False	False	Representative for ST 13
+ERX3462152	16	False	False	False	False	Representative for ST 16
+ERX3435148	20	False	False	False	False	Representative for ST 20
+SRX6093251	23	False	False	False	False	Representative for ST 23
+DRX014156	30	False	False	False	False	Representative for ST 30
+ERX101225	33	False	False	False	False	Representative for ST 33
+SRX6601954	36	False	False	False	False	Representative for ST 36
+SRX6601773	40	False	False	False	False	Representative for ST 40
+SRX2764932	44	False	False	False	False	Representative for ST 44
+SRX1530113	47	False	False	False	False	Representative for ST 47
+ERX3435535	53	False	False	False	False	Representative for ST 53
+DRX014157	54	False	False	False	False	Representative for ST 54
+SRX6602241	55	False	False	False	False	Representative for ST 55
+SRX6601737	56	False	False	False	False	Representative for ST 56
+SRX6601911	62	False	False	False	False	Representative for ST 62
+SRX6602274	66	False	False	False	False	Representative for ST 66
+DRX014253	68	False	False	False	False	Representative for ST 68
+SRX6602044	69	False	False	False	False	Representative for ST 69
+ERX3602170	85	False	False	False	False	Representative for ST 85
+ERX101288	93	False	False	False	False	Representative for ST 93
+ERX2804023	95	False	False	False	False	Representative for ST 95
+ERX3434903	98	False	False	False	False	Representative for ST 98
+ERX3602217	106	False	False	False	False	Representative for ST 106
+SRX6601945	112	False	False	False	False	Representative for ST 112
+SRX6602246	113	False	False	False	False	Representative for ST 113
+SRX6601857	114	False	False	False	False	Representative for ST 114
+SRX6602152	117	False	False	False	False	Representative for ST 117
+SRX6601875	119	False	False	False	False	Representative for ST 119
+SRX6601933	122	False	False	False	False	Representative for ST 122
+DRX014161	123	False	False	False	False	Representative for ST 123
+SRX6602265	125	False	False	False	False	Representative for ST 125
+SRX6602157	126	False	False	False	False	Representative for ST 126
+SRX6601801	127	False	False	False	False	Representative for ST 127
+SRX6601661	129	False	False	False	False	Representative for ST 129
+ERX3434172	137	False	False	False	False	Representative for ST 137
+SRX762514	140	False	False	False	False	Representative for ST 140
+ERX3332416	154	False	False	False	False	Representative for ST 154
+ERX101285	157	False	False	False	False	Representative for ST 157
+ERX2260885	163	False	False	False	False	Representative for ST 163
+ERX3602166	166	False	False	False	False	Representative for ST 166
+ERX3434059	180	False	False	False	False	Representative for ST 180
+SRX6602196	182	False	False	False	False	Representative for ST 182
+SRX6601658	184	False	False	False	False	Representative for ST 184
+SRX6601921	187	False	False	False	False	Representative for ST 187
+ERX2579101	190	False	False	False	False	Representative for ST 190
+ERX3332596	196	False	False	False	False	Representative for ST 196
+ERX2260867	199	False	False	False	False	Representative for ST 199
+ERX2803968	200	False	False	False	False	Representative for ST 200
+ERX3291580	203	False	False	False	False	Representative for ST 203
+ERX3435137	204	False	False	False	False	Representative for ST 204
+SRX6602268	205	False	False	False	False	Representative for ST 205
+SRX6601675	208	False	False	False	False	Representative for ST 208
+ERX2260746	210	False	False	False	False	Representative for ST 210
+ERX3291089	215	False	False	False	False	Representative for ST 215
+SRX6601966	222	False	False	False	False	Representative for ST 222
+ERX101259	238	False	False	False	False	Representative for ST 238
+ERX2260860	241	False	False	False	False	Representative for ST 241
+ERX101229	244	False	False	False	False	Representative for ST 244
+ERX3434779	249	False	False	False	False	Representative for ST 249
+SRX4551904	253	False	False	False	False	Representative for ST 253
+ERX3461958	262	False	False	False	False	Representative for ST 262
+ERX3602244	263	False	False	False	False	Representative for ST 263
+ERX2260706	264	False	False	False	False	Representative for ST 264
+ERX3435779	265	False	False	False	False	Representative for ST 265
+ERX101254	267	False	False	False	False	Representative for ST 267
+ERX101233	270	False	False	False	False	Representative for ST 270
+SRX4551975	272	False	False	False	False	Representative for ST 272
+ERX2579109	276	False	False	False	False	Representative for ST 276
+SRX6601782	280	False	False	False	False	Representative for ST 280
+ERX101292	282	False	False	False	False	Representative for ST 282
+ERX3332396	311	False	False	False	False	Representative for ST 311
+SRX7845426	321	False	False	False	False	Representative for ST 321
+ERX3602240	334	False	False	False	False	Representative for ST 334
+ERX2260728	348	False	False	False	False	Representative for ST 348
+ERX3332043	356	False	False	False	False	Representative for ST 356
+ERX3291443	357	False	False	False	False	Representative for ST 357
+SRX6095766	362	False	False	False	False	Representative for ST 362
+ERX2260864	367	False	False	False	False	Representative for ST 367
+SRX6098339	372	False	False	False	False	Representative for ST 372
+ERX2260902	373	False	False	False	False	Representative for ST 373
+ERX3914180	385	False	False	False	False	Representative for ST 385
+SRX6602090	386	False	False	False	False	Representative for ST 386
+SRX6601944	389	False	False	False	False	Representative for ST 389
+ERX3462163	393	False	False	False	False	Representative for ST 393
+SRX6601908	395	False	False	False	False	Representative for ST 395
+ERX3434365	396	False	False	False	False	Representative for ST 396
+SRX6098334	397	False	False	False	False	Representative for ST 397
+SRX6601953	398	False	False	False	False	Representative for ST 398
+ERX3529861	401	False	False	False	False	Representative for ST 401
+SRX6601752	404	False	False	False	False	Representative for ST 404
+SRX6601665	407	False	False	False	False	Representative for ST 407
+ERX3434808	408	False	False	False	False	Representative for ST 408
+SRX4551992	409	False	False	False	False	Representative for ST 409
+ERX2260757	410	False	False	False	False	Representative for ST 410
+ERX3529794	431	False	False	False	False	Representative for ST 431
+ERX2804002	446	False	False	False	False	Representative for ST 446
+ERX3434674	474	False	False	False	False	Representative for ST 474
+SRX4551994	485	False	False	False	False	Representative for ST 485
+ERX2804043	487	False	False	False	False	Representative for ST 487
+ERX3291336	503	False	False	False	False	Representative for ST 503
+ERX3529791	509	False	False	False	False	Representative for ST 509
+ERX3291351	513	False	False	False	False	Representative for ST 513
+SRX6602058	524	False	False	False	False	Representative for ST 524
+SRX6094448	529	False	False	False	False	Representative for ST 529
+ERX101230	531	False	False	False	False	Representative for ST 531
+ERX3602161	536	False	False	False	False	Representative for ST 536
+ERX2260754	555	False	False	False	False	Representative for ST 555
+SRX6601833	556	False	False	False	False	Representative for ST 556
+SRX6094453	557	False	False	False	False	Representative for ST 557
+ERX3529820	558	False	False	False	False	Representative for ST 558
+ERX2260837	567	False	False	False	False	Representative for ST 567
+ERX2260762	568	False	False	False	False	Representative for ST 568
+ERX3448905	569	False	False	False	False	Representative for ST 569
+SRX6093253	576	False	False	False	False	Representative for ST 576
+ERX2260777	577	False	False	False	False	Representative for ST 577
+ERX3462067	583	False	False	False	False	Representative for ST 583
+SRX9274441	584	False	False	False	False	Representative for ST 584
+ERX3448790	588	False	False	False	False	Representative for ST 588
+ERX3435180	589	False	False	False	False	Representative for ST 589
+ERX2260690	597	False	False	False	False	Representative for ST 597
+ERX2803932	598	False	False	False	False	Representative for ST 598
+SRX6601676	608	False	False	False	False	Representative for ST 608
+ERX3914200	621	False	False	False	False	Representative for ST 621
+ERX2260820	633	False	False	False	False	Representative for ST 633
+ERX3529816	634	False	False	False	False	Representative for ST 634
+SRX6602118	637	False	False	False	False	Representative for ST 637
+ERX2803966	642	False	False	False	False	Representative for ST 642
+ERX3914218	644	False	False	False	False	Representative for ST 644
+ERX2260834	648	False	False	False	False	Representative for ST 648
+ERX3434071	657	False	False	False	False	Representative for ST 657
+SRX4551942	670	False	False	False	False	Representative for ST 670
+SRX6601823	676	False	False	False	False	Representative for ST 676
+SRX9274407	683	False	False	False	False	Representative for ST 683
+ERX3435818	690	False	False	False	False	Representative for ST 690
+ERX3434756	693	False	False	False	False	Representative for ST 693
+ERX4159171	695	False	False	False	False	Representative for ST 695
+ERX3291621	704	False	False	False	False	Representative for ST 704
+ERX2260898	705	False	False	False	False	Representative for ST 705
+ERX3435534	716	False	False	False	False	Representative for ST 716
+SRX6601757	724	False	False	False	False	Representative for ST 724
+ERX3529814	776	False	False	False	False	Representative for ST 776
+SRX6601874	785	False	False	False	False	Representative for ST 785
+ERX2260889	804	False	False	False	False	Representative for ST 804
+ERX3462229	817	False	False	False	False	Representative for ST 817
+ERX3435512	818	False	False	False	False	Representative for ST 818
+ERX3434861	821	False	False	False	False	Representative for ST 821
+ERX101245	824	False	False	False	False	Representative for ST 824
+ERX2260800	834	False	False	False	False	Representative for ST 834
+ERX3434831	835	False	False	False	False	Representative for ST 835
+ERX2260692	838	False	False	False	False	Representative for ST 838
+ERX2260799	848	False	False	False	False	Representative for ST 848
+SRX6601759	850	False	False	False	False	Representative for ST 850
+ERX101268	879	False	False	False	False	Representative for ST 879
+ERX4159210	896	False	False	False	False	Representative for ST 896
+ERX4159223	903	False	False	False	False	Representative for ST 903
+ERX3434919	914	False	False	False	False	Representative for ST 914
+ERX2260953	918	False	False	False	False	Representative for ST 918
+SRX4551982	921	False	False	False	False	Representative for ST 921
+ERX4159215	922	False	False	False	False	Representative for ST 922
+ERX2260822	925	False	False	False	False	Representative for ST 925
+ERX3462200	926	False	False	False	False	Representative for ST 926
+SRX6098329	929	False	False	False	False	Representative for ST 929
+SRX6602184	930	False	False	False	False	Representative for ST 930
+ERX2260697	931	False	False	False	False	Representative for ST 931
+ERX3602176	932	False	False	False	False	Representative for ST 932
+ERX2260701	933	False	False	False	False	Representative for ST 933
+ERX2260724	936	False	False	False	False	Representative for ST 936
+ERX2260727	937	False	False	False	False	Representative for ST 937
+ERX2260881	938	False	False	False	False	Representative for ST 938
+ERX2260730	939	False	False	False	False	Representative for ST 939
+ERX2260865	940	False	False	False	False	Representative for ST 940
+ERX2260750	941	False	False	False	False	Representative for ST 941
+ERX2260752	942	False	False	False	False	Representative for ST 942
+ERX2260737	945	False	False	False	False	Representative for ST 945
+ERX3529866	946	False	False	False	False	Representative for ST 946
+ERX2260767	947	False	False	False	False	Representative for ST 947
+ERX2260794	949	False	False	False	False	Representative for ST 949
+ERX3435029	956	False	False	False	False	Representative for ST 956
+ERX3529836	967	False	False	False	False	Representative for ST 967
+ERX2804058	973	False	False	False	False	Representative for ST 973
+SRX6601644	978	False	False	False	False	Representative for ST 978
+SRX4551941	986	False	False	False	False	Representative for ST 986
+ERX2260900	995	False	False	False	False	Representative for ST 995
+SRX4551951	996	False	False	False	False	Representative for ST 996
+ERX101272	1012	False	False	False	False	Representative for ST 1012
+ERX3332450	1020	False	False	False	False	Representative for ST 1020
+SRX4551999	1025	False	False	False	False	Representative for ST 1025
+SRX4551996	1030	False	False	False	False	Representative for ST 1030
+SRX1715129	1032	False	False	False	False	Representative for ST 1032
+SRX6095773	1035	False	False	False	False	Representative for ST 1035
+ERX3435126	1048	False	False	False	False	Representative for ST 1048
+ERX3529792	1050	False	False	False	False	Representative for ST 1050
+ERX101270	1063	False	False	False	False	Representative for ST 1063
+ERX3435516	1066	False	False	False	False	Representative for ST 1066
+SRX4551988	1069	False	False	False	False	Representative for ST 1069
+ERX3602204	1071	False	False	False	False	Representative for ST 1071
+ERX2260870	1073	False	False	False	False	Representative for ST 1073
+SRX6602197	1127	False	False	False	False	Representative for ST 1127
+ERX101255	1131	False	False	False	False	Representative for ST 1131
+ERX2579072	1136	False	False	False	False	Representative for ST 1136
+ERX2579078	1143	False	False	False	False	Representative for ST 1143
+ERX2579081	1145	False	False	False	False	Representative for ST 1145
+ERX2579117	1147	False	False	False	False	Representative for ST 1147
+ERX2579084	1148	False	False	False	False	Representative for ST 1148
+ERX2579085	1150	False	False	False	False	Representative for ST 1150
+ERX3291083	1163	False	False	False	False	Representative for ST 1163
+ERX2260907	1202	False	False	False	False	Representative for ST 1202
+SRX7845442	1218	False	False	False	False	Representative for ST 1218
+SRX4576192	1221	False	False	False	False	Representative for ST 1221
+ERX101290	1223	False	False	False	False	Representative for ST 1223
+ERX3449050	1230	False	False	False	False	Representative for ST 1230
+ERX2803991	1238	False	False	False	False	Representative for ST 1238
+ERX4159237	1274	False	False	False	False	Representative for ST 1274
+ERX2804009	1280	False	False	False	False	Representative for ST 1280
+ERX3434995	1281	False	False	False	False	Representative for ST 1281
+SRX6095774	1290	False	False	False	False	Representative for ST 1290
+ERX3529778	1301	False	False	False	False	Representative for ST 1301
+ERX3332114	1314	False	False	False	False	Representative for ST 1314
+ERX101281	1326	False	False	False	False	Representative for ST 1326
+ERX3449234	1333	False	False	False	False	Representative for ST 1333
+ERX3602187	1342	False	False	False	False	Representative for ST 1342
+SRX6601832	1343	False	False	False	False	Representative for ST 1343
+ERX3434580	1345	False	False	False	False	Representative for ST 1345
+ERX3435580	1363	False	False	False	False	Representative for ST 1363
+ERX3434563	1371	False	False	False	False	Representative for ST 1371
+ERX3435144	1376	False	False	False	False	Representative for ST 1376
+ERX3602239	1379	False	False	False	False	Representative for ST 1379
+ERX3434817	1382	False	False	False	False	Representative for ST 1382
+ERX2260936	1411	False	False	False	False	Representative for ST 1411
+ERX2804016	1416	False	False	False	False	Representative for ST 1416
+ERX3602194	1417	False	False	False	False	Representative for ST 1417
+ERX4159203	1426	False	False	False	False	Representative for ST 1426
+ERX3434379	1430	False	False	False	False	Representative for ST 1430
+ERX3291591	1441	False	False	False	False	Representative for ST 1441
+ERX3332765	1442	False	False	False	False	Representative for ST 1442
+SRX6601686	1445	False	False	False	False	Representative for ST 1445
+ERX3529838	1472	False	False	False	False	Representative for ST 1472
+SRX4576209	1479	False	False	False	False	Representative for ST 1479
+ERX3434679	1494	False	False	False	False	Representative for ST 1494
+ERX3529787	1497	False	False	False	False	Representative for ST 1497
+DRX233551	1511	False	False	False	False	Representative for ST 1511
+ERX2803989	1517	False	False	False	False	Representative for ST 1517
+ERX3529802	1524	False	False	False	False	Representative for ST 1524
+ERX3434828	1529	False	False	False	False	Representative for ST 1529
+ERX3448863	1548	False	False	False	False	Representative for ST 1548
+ERX101235	1566	False	False	False	False	Representative for ST 1566
+ERX2260795	1602	False	False	False	False	Representative for ST 1602
+ERX3434644	1605	False	False	False	False	Representative for ST 1605
+ERX3529847	1608	False	False	False	False	Representative for ST 1608
+ERX3529842	1615	False	False	False	False	Representative for ST 1615
+ERX101222	1622	False	False	False	False	Representative for ST 1622
+ERX3435191	1624	False	False	False	False	Representative for ST 1624
+ERX2260825	1625	False	False	False	False	Representative for ST 1625
+ERX2260855	1627	False	False	False	False	Representative for ST 1627
+ERX2260890	1628	False	False	False	False	Representative for ST 1628
+ERX2260899	1629	False	False	False	False	Representative for ST 1629
+ERX2260929	1630	False	False	False	False	Representative for ST 1630
+SRX6601871	1663	False	False	False	False	Representative for ST 1663
+ERX3291600	1664	False	False	False	False	Representative for ST 1664
+SRX6601980	1665	False	False	False	False	Representative for ST 1665
+SRX6602234	1666	False	False	False	False	Representative for ST 1666
+SRX6602005	1686	False	False	False	False	Representative for ST 1686
+SRX6601763	1687	False	False	False	False	Representative for ST 1687
+SRX6601919	1688	False	False	False	False	Representative for ST 1688
+SRX6602191	1689	False	False	False	False	Representative for ST 1689
+SRX6602163	1690	False	False	False	False	Representative for ST 1690
+SRX6601647	1691	False	False	False	False	Representative for ST 1691
+SRX6601716	1692	False	False	False	False	Representative for ST 1692
+SRX6601940	1708	False	False	False	False	Representative for ST 1708
+SRX6601943	1709	False	False	False	False	Representative for ST 1709
+SRX6601971	1710	False	False	False	False	Representative for ST 1710
+SRX6602061	1711	False	False	False	False	Representative for ST 1711
+SRX6602028	1712	False	False	False	False	Representative for ST 1712
+SRX6601914	1713	False	False	False	False	Representative for ST 1713
+SRX6601705	1715	False	False	False	False	Representative for ST 1715
+SRX6602019	1716	False	False	False	False	Representative for ST 1716
+SRX6601693	1717	False	False	False	False	Representative for ST 1717
+SRX6602124	1718	False	False	False	False	Representative for ST 1718
+SRX6601724	1719	False	False	False	False	Representative for ST 1719
+SRX6601697	1739	False	False	False	False	Representative for ST 1739
+SRX6601802	1740	False	False	False	False	Representative for ST 1740
+SRX6601718	1751	False	False	False	False	Representative for ST 1751
+SRX6601939	1752	False	False	False	False	Representative for ST 1752
+SRX6601710	1753	False	False	False	False	Representative for ST 1753
+SRX6602229	1755	False	False	False	False	Representative for ST 1755
+SRX6601992	1756	False	False	False	False	Representative for ST 1756
+SRX6602089	1757	False	False	False	False	Representative for ST 1757
+SRX6602254	1758	False	False	False	False	Representative for ST 1758
+SRX6602257	1759	False	False	False	False	Representative for ST 1759
+SRX6601870	1760	False	False	False	False	Representative for ST 1760
+SRX6601869	1761	False	False	False	False	Representative for ST 1761
+SRX6098058	1767	False	False	False	False	Representative for ST 1767
+ERX3602225	1770	False	False	False	False	Representative for ST 1770
+SRX6601621	1783	False	False	False	False	Representative for ST 1783
+SRX6601620	1784	False	False	False	False	Representative for ST 1784
+SRX6601791	1785	False	False	False	False	Representative for ST 1785
+SRX6098037	1786	False	False	False	False	Representative for ST 1786
+SRX4551930	1789	False	False	False	False	Representative for ST 1789
+SRX6601931	1793	False	False	False	False	Representative for ST 1793
+SRX6602271	1794	False	False	False	False	Representative for ST 1794
+SRX4551990	1812	False	False	False	False	Representative for ST 1812
+SRX4551905	1813	False	False	False	False	Representative for ST 1813
+SRX6602070	1817	False	False	False	False	Representative for ST 1817
+SRX6602125	1818	False	False	False	False	Representative for ST 1818
+SRX6602137	1819	False	False	False	False	Representative for ST 1819
+ERX3434922	1821	False	False	False	False	Representative for ST 1821
+ERX3434984	1827	False	False	False	False	Representative for ST 1827
+ERX2579107	1828	False	False	False	False	Representative for ST 1828
+ERX2579113	1829	False	False	False	False	Representative for ST 1829
+ERX2579120	1830	False	False	False	False	Representative for ST 1830
+ERX2579040	1831	False	False	False	False	Representative for ST 1831
+ERX3435645	1832	False	False	False	False	Representative for ST 1832
+ERX2579052	1833	False	False	False	False	Representative for ST 1833
+ERX2579053	1834	False	False	False	False	Representative for ST 1834
+ERX2579076	1835	False	False	False	False	Representative for ST 1835
+ERX101203	1860	False	False	False	False	Representative for ST 1860
+ERX3529812	1877	False	False	False	False	Representative for ST 1877
+ERX2803952	1904	False	False	False	False	Representative for ST 1904
+SRX4576180	1906	False	False	False	False	Representative for ST 1906
+SRX4576202	1907	False	False	False	False	Representative for ST 1907
+SRX4576205	1908	False	False	False	False	Representative for ST 1908
+SRX4576203	1909	False	False	False	False	Representative for ST 1909
+SRX4576179	1910	False	False	False	False	Representative for ST 1910
+ERX3914309	1915	False	False	False	False	Representative for ST 1915
+ERX3462105	1917	False	False	False	False	Representative for ST 1917
+ERX3449123	1918	False	False	False	False	Representative for ST 1918
+ERX3434800	1919	False	False	False	False	Representative for ST 1919
+ERX3914509	1920	False	False	False	False	Representative for ST 1920
+ERX3448916	1921	False	False	False	False	Representative for ST 1921
+ERX3449003	1922	False	False	False	False	Representative for ST 1922
+ERX3914390	1923	False	False	False	False	Representative for ST 1923
+ERX3914312	1924	False	False	False	False	Representative for ST 1924
+ERX3434164	1926	False	False	False	False	Representative for ST 1926
+ERX3970865	1927	False	False	False	False	Representative for ST 1927
+ERX3435786	1928	False	False	False	False	Representative for ST 1928
+ERX3914169	1929	False	False	False	False	Representative for ST 1929
+ERX3914366	1930	False	False	False	False	Representative for ST 1930
+ERX3434472	1931	False	False	False	False	Representative for ST 1931
+ERX3448811	1932	False	False	False	False	Representative for ST 1932
+ERX3435506	1933	False	False	False	False	Representative for ST 1933
+ERX3435639	1934	False	False	False	False	Representative for ST 1934
+ERX3434862	1935	False	False	False	False	Representative for ST 1935
+ERX3434930	1936	False	False	False	False	Representative for ST 1936
+ERX3435098	1937	False	False	False	False	Representative for ST 1937
+ERX3448966	1938	False	False	False	False	Representative for ST 1938
+ERX3435171	1939	False	False	False	False	Representative for ST 1939
+ERX3448904	1940	False	False	False	False	Representative for ST 1940
+ERX3462107	1941	False	False	False	False	Representative for ST 1941
+ERX3435508	1942	False	False	False	False	Representative for ST 1942
+ERX3435121	1943	False	False	False	False	Representative for ST 1943
+ERX3435106	1944	False	False	False	False	Representative for ST 1944
+ERX3435458	1945	False	False	False	False	Representative for ST 1945
+ERX3435206	1946	False	False	False	False	Representative for ST 1946
+ERX3434000	1947	False	False	False	False	Representative for ST 1947
+ERX3448794	1948	False	False	False	False	Representative for ST 1948
+ERX3434693	1949	False	False	False	False	Representative for ST 1949
+ERX3448806	1950	False	False	False	False	Representative for ST 1950
+ERX3434689	1951	False	False	False	False	Representative for ST 1951
+ERX3434720	1952	False	False	False	False	Representative for ST 1952
+ERX3435456	1953	False	False	False	False	Representative for ST 1953
+ERX3448907	1954	False	False	False	False	Representative for ST 1954
+ERX3434911	1955	False	False	False	False	Representative for ST 1955
+ERX3434973	1956	False	False	False	False	Representative for ST 1956
+ERX3448858	1957	False	False	False	False	Representative for ST 1957
+ERX3435046	1958	False	False	False	False	Representative for ST 1958
+ERX3448808	1959	False	False	False	False	Representative for ST 1959
+ERX3332298	1961	False	False	False	False	Representative for ST 1961
+ERX3448796	1962	False	False	False	False	Representative for ST 1962
+ERX3435705	1963	False	False	False	False	Representative for ST 1963
+ERX3435032	1964	False	False	False	False	Representative for ST 1964
+ERX3448867	1965	False	False	False	False	Representative for ST 1965
+ERX3448872	1966	False	False	False	False	Representative for ST 1966
+ERX3434982	1967	False	False	False	False	Representative for ST 1967
+ERX3434905	1968	False	False	False	False	Representative for ST 1968
+ERX3434734	1969	False	False	False	False	Representative for ST 1969
+ERX3435090	1970	False	False	False	False	Representative for ST 1970
+ERX3434015	1971	False	False	False	False	Representative for ST 1971
+ERX3434935	1972	False	False	False	False	Representative for ST 1972
+ERX3435194	1973	False	False	False	False	Representative for ST 1973
+ERX3448915	1974	False	False	False	False	Representative for ST 1974
+ERX3435175	1975	False	False	False	False	Representative for ST 1975
+ERX3434938	1976	False	False	False	False	Representative for ST 1976
+ERX3449147	1977	False	False	False	False	Representative for ST 1977
+ERX3434967	1978	False	False	False	False	Representative for ST 1978
+ERX3914441	1979	False	False	False	False	Representative for ST 1979
+ERX3434927	1980	False	False	False	False	Representative for ST 1980
+ERX3434914	1981	False	False	False	False	Representative for ST 1981
+ERX3435056	1982	False	False	False	False	Representative for ST 1982
+ERX3434107	1983	False	False	False	False	Representative for ST 1983
+ERX3462073	1984	False	False	False	False	Representative for ST 1984
+ERX3462102	1985	False	False	False	False	Representative for ST 1985
+ERX3434176	1986	False	False	False	False	Representative for ST 1986
+ERX3970985	1987	False	False	False	False	Representative for ST 1987
+ERX3914400	1988	False	False	False	False	Representative for ST 1988
+ERX3970879	1989	False	False	False	False	Representative for ST 1989
+ERX3448921	1990	False	False	False	False	Representative for ST 1990
+ERX3462277	1992	False	False	False	False	Representative for ST 1992
+ERX3435071	1993	False	False	False	False	Representative for ST 1993
+ERX3462132	1994	False	False	False	False	Representative for ST 1994
+ERX3435200	1995	False	False	False	False	Representative for ST 1995
+ERX3434171	1996	False	False	False	False	Representative for ST 1996
+ERX3435089	1997	False	False	False	False	Representative for ST 1997
+ERX3462175	1998	False	False	False	False	Representative for ST 1998
+ERX3448732	1999	False	False	False	False	Representative for ST 1999
+ERX3435037	2000	False	False	False	False	Representative for ST 2000
+ERX3435817	2002	False	False	False	False	Representative for ST 2002
+ERX3914210	2003	False	False	False	False	Representative for ST 2003
+ERX3435066	2004	False	False	False	False	Representative for ST 2004
+ERX3435138	2005	False	False	False	False	Representative for ST 2005
+ERX3433986	2007	False	False	False	False	Representative for ST 2007
+ERX3435185	2008	False	False	False	False	Representative for ST 2008
+ERX3433945	2009	False	False	False	False	Representative for ST 2009
+ERX3435061	2010	False	False	False	False	Representative for ST 2010
+SRX4551995	2022	False	False	False	False	Representative for ST 2022
+SRX4551997	2023	False	False	False	False	Representative for ST 2023
+SRX4551984	2024	False	False	False	False	Representative for ST 2024
+SRX4551937	2025	False	False	False	False	Representative for ST 2025
+SRX4551925	2026	False	False	False	False	Representative for ST 2026
+SRX4551989	2027	False	False	False	False	Representative for ST 2027
+ERX2803948	2030	False	False	False	False	Representative for ST 2030
+ERX2803964	2031	False	False	False	False	Representative for ST 2031
+ERX2803984	2033	False	False	False	False	Representative for ST 2033
+ERX2803988	2034	False	False	False	False	Representative for ST 2034
+ERX2803998	2035	False	False	False	False	Representative for ST 2035
+ERX2804010	2036	False	False	False	False	Representative for ST 2036
+ERX2804055	2037	False	False	False	False	Representative for ST 2037
+ERX2803994	2053	False	False	False	False	Representative for ST 2053
+SRX6098332	2057	False	False	False	False	Representative for ST 2057
+SRX6098327	2060	False	False	False	False	Representative for ST 2060
+SRX6601626	2062	False	False	False	False	Representative for ST 2062
+ERX2804025	2082	False	False	False	False	Representative for ST 2082
+ERX2803950	2092	False	False	False	False	Representative for ST 2092
+ERX2804006	2094	False	False	False	False	Representative for ST 2094
+ERX3970905	2312	False	False	False	False	Representative for ST 2312
+ERX3434695	2313	False	False	False	False	Representative for ST 2313
+ERX3434269	2314	False	False	False	False	Representative for ST 2314
+ERX3970975	2315	False	False	False	False	Representative for ST 2315
+ERX3529786	2328	False	False	False	False	Representative for ST 2328
+ERX3529790	2331	False	False	False	False	Representative for ST 2331

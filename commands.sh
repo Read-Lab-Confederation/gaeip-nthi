@@ -12,7 +12,6 @@ conda activate bactopia
 ```
 bactopia datasets --cpus 10 --species "Haemophilus influenzae" --include_genus
 bactopia prepare ~/pojects/nthi/data/fastqs > fastqs.txt
-bactopia prepare ~/pojects/nthi/data/cdc/fastqs >> fastqs.txt
 bactopia pull --default --include_tools
 ```
 
@@ -63,6 +62,8 @@ rm -rf work/
 ### Summary of Genomes
 ```
 bactopia tools summary --bactopia bactopia/ --prefix nthi
+mkdir ../results/bactopia-summary
+cp -r bactopia-tools/summary/nthi/* ../results/bactopia-summary/
 ```
 This generates a list samples to exclude from further analysis.
 
@@ -74,16 +75,29 @@ bactopia tools fastani --bactopia bactopia/ \
                        --reference ../../../../data/completed-genomes/GA81666.fasta \
                        --skip_pairwise \
                        --local_reference_only \
-                       --exclude excludes.txt \
+                       --exclude ../results/bactopia-summary/nthi-exclude.txt \
                        --cpus 20 \
                        -profile slurm
 ```
+
+### Representative Set
+```
+python3 bin/generate-representative-set.py \
+    results/bactopia-summary/nthi-report.txt \
+    results/bactopia-summary/nthi-exclude.txt \
+    results/fastani.tsv \
+    data/st164-c1.txt \
+    data/st1714-c2.txt
+mv excludes.txt representatives.txt results/
+```
+This produces two files `excludes.txt` and `representatives.txt`
 
 ### Mashtree
 ```
 bactopia tools mashtree --bactopia bactopia/ \
                         --species "Haemophilus influenzae" \
-                        --exclude excludes.txt \
+                        --exclude ../results/excludes.txt \
+                        --max_time 720 \
                         -profile slurm
 ```
 
@@ -115,7 +129,7 @@ bactopia tools pirate --bactopia bactopia/ \
                       -profile slurm 
 ```
 
-#### EIP Samples
+#### Georgia Samples
 ```
 bactopia tools pirate --bactopia bactopia/ \
                       --prefix ga-samples \
@@ -125,6 +139,15 @@ bactopia tools pirate --bactopia bactopia/ \
 ```
 
 
+#### Representative Set of Samples
+```
+bactopia tools pirate --bactopia bactopia/ \
+                      --prefix representative-set \
+                      --include ../results/representatives.txt \
+                      --cpus 39 \
+                      -profile slurm 
+```
+
 ### Insertion Sequences
 #### IS1016
 ```
@@ -132,6 +155,6 @@ bactopia tools ismapper --bactopia bactopia/ \
                         --insertions datasets/species-specific/haemophilus-influenzae/optional/insertion-sequences/IS1016.fasta \
                         --reference GA81666-completed/GA81666/annotation/GA81666.gbk \
                         --prefix IS1016 \
-                        --exclude excludes.txt \
+                        --exclude ../results/excludes.txt \
                         -profile slurm
 ```
