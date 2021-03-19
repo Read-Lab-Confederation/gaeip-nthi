@@ -158,3 +158,10 @@ bactopia tools ismapper --bactopia bactopia/ \
                         --exclude ../results/excludes.txt \
                         -profile slurm
 ```
+
+### Capsule
+```
+bactopia tools hicap --bactopia bactopia/ \
+                     --exclude ../results/excludes.txt \
+                     -profile slurm
+```
